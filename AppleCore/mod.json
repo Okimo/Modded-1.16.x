@@ -1,0 +1,11 @@
+{
+    "mod_filename": "AppleSkin-mc1.16.2-forge-1.0.14.jar",
+    "mod_id": "appleskin",
+    "mod_name": "AppleCore",
+    "mod_dir": "/AppleCore/",
+    "mod_authors": [
+        "squeek"
+    ],
+    "url_website": "",
+    "description": "Adds various food-related HUD improvements"
+}

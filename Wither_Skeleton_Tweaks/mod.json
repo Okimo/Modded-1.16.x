@@ -1,0 +1,12 @@
+{
+    "mod_filename": "Wither-Skeleton-Tweaks-1.16.3-5.2.1.jar",
+    "mod_id": "wither-skeleton-tweaks",
+    "mod_name": "Wither Skeleton Tweaks",
+    "mc_version": "1.16.4",
+    "mod_authors": [
+        "Shadows_of_Fire"
+    ],
+    "url_website": "https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks",
+    "description": "General improvements to wither skeletons",
+    "mod_dir": "/Wither_Skeleton_Tweaks/"
+}

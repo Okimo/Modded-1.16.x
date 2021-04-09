@@ -1,0 +1,11 @@
+{
+    "mod_filename": "TrashSlot_1.11.2-7.4.8.jar",
+    "mod_id": "trashslot",
+    "mod_name": "Trashslot",
+    "mod_authors": [
+        "BlayTheNinth"
+    ],
+    "url_website": "",
+    "description": "Adds a trash slot to the inventory screen that allows deletion of unwanted items.",
+    "mod_dir": "/Trashslot/"
+}
